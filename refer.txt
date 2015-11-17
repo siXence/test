@@ -1,0 +1,6 @@
+jdk :  http://jingyan.baidu.com/article/647f0115bb26817f2048a871.html
+maven  :  http://www.linuxidc.com/Linux/2015-03/114619.htm
+         仓库  http://www.cnblogs.com/0616--ataozhijia/p/3673964.html
+	插件 http://blog.csdn.net/lfsfxy9/article/details/9397937
+hadoop : http://www.cnblogs.com/kinglau/p/3794433.html
+mahout  http://seabay.iteye.com/blog/1628580
